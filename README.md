@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi, welcome to my GitHub Profile👋
 
 
+## Social Media:
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/matheusletra/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -16,3 +17,12 @@
 <a target="_blank" href="https://fb.com/MatheusLetra7">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
+<br>
+<br>
+<br>
+
+## :computer: Programming languages and tools: 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
+
