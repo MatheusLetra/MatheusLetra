@@ -1,7 +1,27 @@
-### Hi, welcome to my GitHub Profile👋
+### Welcome to my GitHub Profile👋
+
+Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, Sao Paulo, Brazil. I am currently working as a Delphi developer, also participating in projects involving the React Native framework. 
+
+### 📚 I'm currently learning
+- JavaScript
+- Node.js
+- React Native
+- Express
+- Knex
+- Data Science
+
+### ⚡ Relevant details
+- Formation of technical level in Systems Development
+- Formation of technical level in Internet Computing
+- Graduating in Data Science
+- Basic knowledge of PHP and Front-End Technologies
+
+### 🏆 Small awards and achievements
+- 2nd in the first programming marathon of the technical school Etec Amim Jundi
+- 1st in the second programming marathon of the technical school Etec Amim Jundi
 
 
-## Social Media:
+## 📫 Contact Me on Social Media:
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/matheusletra/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -20,7 +40,7 @@
 
 <br>
 
-## :computer: Programming languages and tools: 
+<!-- ## :computer: My favorite programming languages and tools: 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code> -->
 
