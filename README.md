@@ -21,7 +21,7 @@ Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, Sao Paulo, Br
 - 1st in the second programming marathon of the technical school Etec Amim Jundi
 
 
-## 📫 Contact Me on Social Media:
+## Contact Me on Social Media:
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/matheusletra/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
