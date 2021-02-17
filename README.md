@@ -17,8 +17,8 @@ Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, Sao Paulo, Br
 - Basic knowledge of PHP and Front-End Technologies
 
 ### 🏆 Small awards and achievements
-- 2nd in the first programming marathon of the technical school Etec Amim Jundi
-- 1st in the second programming marathon of the technical school Etec Amim Jundi
+- 2nd in the first programming marathon of the technical school Etec Amim Jundi - 2018
+- 1st in the second programming marathon of the technical school Etec Amim Jundi - 2019
 
 
 ## Contact Me on Social Media:
