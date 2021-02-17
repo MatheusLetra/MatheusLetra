@@ -6,8 +6,8 @@ Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, Sao Paulo, Br
 - JavaScript
 - Node.js
 - React Native
-- Express
-- Knex
+- Express (Node.js Framework)
+- Knex (SQL query builder)
 - Data Science
 
 ### ⚡ Relevant details
