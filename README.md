@@ -5,7 +5,7 @@ Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, Sao Paulo, Br
 ### 📚 I'm currently learning
 - JavaScript
 - Node.js
-- React Native
+- React Native || ReactJs
 - Python
 - Data Science
 
