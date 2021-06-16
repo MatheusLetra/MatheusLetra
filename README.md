@@ -9,10 +9,10 @@ Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, Sao Paulo, Br
 - Python
 - Data Science
 
-## Languages
+## Languages and Tools
 <div>
   <a href="https://github.com/MatheusLetra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLetra&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLetra&layout=compact&langs_count=16&theme=light"/>
 </div>
   
 <div style="display: inline_block"><br>
