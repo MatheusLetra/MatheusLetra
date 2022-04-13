@@ -1,6 +1,6 @@
 ### Welcome to my GitHub Profile👋
 
-Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, Sao Paulo, Brazil. I am currently working as a **Delphi Developer** also participating in projects involving the **React Native** framework. 
+Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, Sao Paulo, Brazil. I am currently working as a **Delphi Developer** also participating in projects involving the **React Native** and **NodeJs**. 
 
 ### 📚 I'm currently learning
 - JavaScript
