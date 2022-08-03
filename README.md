@@ -2,10 +2,6 @@
 
 Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, Sao Paulo, Brazil. I am currently working as a **Delphi Developer** also participating in projects involving the **React Native** and **NodeJs**. 
 
-### 📚 I'm currently learning
-- JavaScript
-- Node.js
-- React Native || ReactJs
 
 ## Languages and Tools
 <div>
