@@ -1,13 +1,17 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=header"/>
+
 ### Welcome to my GitHub Profile👋
 
 Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, Sao Paulo, Brazil. I am currently working as a **Delphi Developer** also participating in projects involving the **React Native**, **NodeJs**, **React.Js** and **Java (Android)** at **Arth Tecnologia**. 
 
 
 ## Languages and Tools
-<div>
-  <a href="https://github.com/MatheusLetra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLetra&layout=compact&langs_count=16&theme=dark"/>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusletra&show_icons=true&count_private=true&hide_border=true&title_color=9fb2e0&icon_color=9fb2e0&text_color=FFF&bg_color=0d1117" alt="Matheus github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusletra&layout=compact&hide_border=true&title_color=9fb2e0&text_color=FFF&bg_color=0d1117" />
 </div>
+  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,7 +35,5 @@ Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, Sao Paulo, Br
 <a target="_blank" href="mailto:jrtyuw@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="https://fb.com/MatheusLetra7">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/>
   
