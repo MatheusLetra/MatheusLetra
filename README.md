@@ -4,9 +4,6 @@
 
 Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, Sao Paulo, Brazil. I am currently working as a **Delphi Developer** also participating in projects involving the **React Native**, **NodeJs**, **React.Js** and **Java (Android)** at **[Arth Tecnologia](https://github.com/ArthTecnologia)**. 
 
-
-## Most Used Programming Languages and GitHub Stats
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusletra&show_icons=true&count_private=true&hide_border=true&title_color=9fb2e0&icon_color=9fb2e0&text_color=FFF&bg_color=0d1117" alt="Matheus github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusletra&layout=compact&hide_border=true&title_color=9fb2e0&text_color=FFF&bg_color=0d1117" />
