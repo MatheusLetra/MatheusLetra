@@ -26,8 +26,8 @@ Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, São Paulo, B
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusletra&show_icons=true&count_private=true&hide_border=true&title_color=9fb2e0&icon_color=9fb2e0&text_color=FFF&bg_color=0d1117" alt="Matheus github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusletra&layout=compact&hide_border=true&title_color=9fb2e0&text_color=FFF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusletra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&title_color=9fb2e0&icon_color=9fb2e0&text_color=FFF&bg_color=0d1117" alt="Matheus github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusletra&layout=compact&hide_border=false&title_color=9fb2e0&text_color=FFF&bg_color=0d1117" />
 </div>
 
 ---
