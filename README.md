@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=header"/>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=header" alt="Header Image" style="width:100%;" />
 
-### Welcome to my GitHub Profile👋
+### Welcome to my GitHub Profile 👋
 
 Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, São Paulo, Brazil. I am currently working as a **Delphi Developer** and participating in projects involving **React Native**, **NodeJs**, **React.Js**, and **Java (Android)** at **[Arth Tecnologia](https://github.com/ArthTecnologia)**.
 
@@ -8,7 +9,7 @@ Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, São Paulo, B
 
 ### 🛠️ Technologies & Tools
 
-<div style="display: inline_block; text-align: center; margin-top: 20px;">
+<div align="center" style="margin-top: 20px;">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -22,14 +23,21 @@ Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, São Paulo, B
 ### 📈 GitHub Stats
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusletra&theme=dark&hide_border=true&background=0d1117&stroke=9fb2e0&ring=eb710e&fire=eb0e0e&currStreakNum=FFF&sideNums=FFF&currStreakLabel=9fb2e0&sideLabels=9fb2e0" alt="" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusletra&theme=dark&hide_border=true&background=0d1117&stroke=9fb2e0&ring=eb710e&fire=eb0e0e&currStreakNum=FFF&sideNums=FFF&currStreakLabel=9fb2e0&sideLabels=9fb2e0" alt="" width="100%" height="195px" />
 </div>
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusLetra&theme=dark)
-
 <div align="center" style="margin-top: 20px;">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusletra&include_all_commits&count_private=true&hide_border=true&title_color=9fb2e0&icon_color=9fb2e0&text_color=FFF&bg_color=0d1117" alt="Matheus github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusletra&layout=compact&hide_border=true&title_color=9fb2e0&text_color=FFF&bg_color=0d1117" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusletra&theme=discord_old_blurple" alt="Profile Details" width="100%" height="195px" />
+</div>
+
+<div style="margin-top: 20px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheusletra&theme=discord_old_blurple" alt="Repos per Language" width="49%" height="195px" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheusletra&theme=discord_old_blurple" alt="Most Commit Language" width="45%" height="195px" />
+</div>
+
+<div style="margin-top: 20px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheusletra&theme=discord_old_blurple" alt="GitHub Stats" width="49%" height="195px" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matheusletra&theme=discord_old_blurple&utcOffset=-3" alt="Productive Time" width="45%" height="195px" />
 </div>
 
 ---
@@ -59,4 +67,5 @@ Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, São Paulo, B
   </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer"/>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7e98d5&height=120&section=footer" alt="Footer Image" style="width:100%;" />
