@@ -23,6 +23,10 @@ Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, São Paulo, B
 ### 📈 GitHub Stats
 
 <div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusletra&theme=dark&hide_border=true&background=0d1117&stroke=9fb2e0&ring=eb710e&fire=eb0e0e&currStreakNum=FFF&sideNums=FFF&currStreakLabel=9fb2e0&sideLabels=9fb2e0" alt="" width="100%" height="195px" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusletra&theme=discord_old_blurple" alt="Profile Details" width="100%" height="195px" />
 </div>
 
