@@ -10,21 +10,14 @@ Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, São Paulo, B
 ### 🛠️ Technologies & Tools
 
 <div align="center" style="margin-top: 20px;">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React.Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">  
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,postgres,mysql" />
 </div>
 
 ---
 
 ### 📈 GitHub Stats
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusletra&theme=dark&hide_border=true&background=0d1117&stroke=9fb2e0&ring=eb710e&fire=eb0e0e&currStreakNum=FFF&sideNums=FFF&currStreakLabel=9fb2e0&sideLabels=9fb2e0" alt="" width="100%" height="195px" />
-</div>
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center" style="margin-top: 20px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheusletra&theme=discord_old_blurple" alt="Profile Details" width="100%" height="195px" />
@@ -38,6 +31,10 @@ Hi guys, I'm **Matheus Letra**. I'm a developer from Osvaldo Cruz, São Paulo, B
 <div style="margin-top: 20px;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matheusletra&theme=discord_old_blurple" alt="GitHub Stats" width="49%" height="195px" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matheusletra&theme=discord_old_blurple&utcOffset=-3" alt="Productive Time" width="45%" height="195px" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matheusletra&theme=dark&hide_border=true&background=0d1117&stroke=9fb2e0&ring=eb710e&fire=eb0e0e&currStreakNum=FFF&sideNums=FFF&currStreakLabel=9fb2e0&sideLabels=9fb2e0" alt="" width="100%" height="195px" />
 </div>
 
 ---
